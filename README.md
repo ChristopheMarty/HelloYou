@@ -1,2 +1,2 @@
 # HelloYou
-Just un autre dépôt
+Juste un autre dépôt
